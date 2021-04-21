@@ -9,8 +9,8 @@
     <body>
         <div class="container">
             <div class="card mt-5">
-                <div class="card-header text-center">
-                    CRUD - <a href="#" target="_blank">By 18090018</a>
+                <div class="card-header bg-dark text-center text-white">
+                    CRUD
                 </div>
                 <div class="card-body">
                     <a href="/kendaraan/tambah" class="btn btn-primary">Tambah Data Baru</a>
@@ -42,5 +42,5 @@
                 </div>
             </div>
         </div>
-    </body>
+    </body><center><a href="#" target="_blank">By 18090018</a></center>
 </html>

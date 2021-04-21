@@ -9,7 +9,7 @@
     <body>
         <div class="container">
             <div class="card mt-5">
-                <div class="card-header text-center">
+                <div class="card-header bg-dark text-white text-center">
                 <strong>EDIT DATA</strong>
                 </div>
                 <div class="card-body">
@@ -68,5 +68,5 @@
                 </div>
             </div>
         </div>
-    </body><a href="#" target="_blank">By 18090018</a>
+    </body><center><a href="#" target="_blank">By 18090018</a></center>
 </html>
