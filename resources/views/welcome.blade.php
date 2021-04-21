@@ -21,7 +21,7 @@
     <nav class="navbar">
         <div class="max-width">
             <ul class="menu">
-                <li><a href="https://app-uts-18090070.herokuapp.com/" class="menu-btn">Aplikasi</a></li>
+                <li><a href="https://uts-18090018.herokuapp.com/" class="menu-btn">Aplikasi</a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
@@ -34,10 +34,10 @@
       <div class="max-width">
           <div class="row">
             <div class="home-content">
-                <div class="text-1">Hello, Nama Saya</div>
-                <div class="text-2">Estu Nosita</div>
-                <div class="text-3">NIM : 18090070
-                <a href="#">Masuk</a>
+                <div class="text-1">Hello, My name</div>
+                <div class="text-2">Eka Sri Mulyani</div>
+                <div class="text-3">NIM : 18090018
+                <a href="https://uts-18090018.herokuapp.com/">Masuk</a>
             </div>
           </div>
       </div>
