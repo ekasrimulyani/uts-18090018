@@ -17,9 +17,9 @@ class PegawaiSeeder extends Seeder
     {
         // insert data ke table pegawai
         DB::table('pegawai')->insert([
-            'nip' => '1809002',
-        	'nama' => 'gio',
-        	'alamat' => 'Brebes'
+            'nip' => '18090027',
+        	'nama' => 'ilhm',
+        	'alamat' => 'Slawi'
         ]);
     }
 }
