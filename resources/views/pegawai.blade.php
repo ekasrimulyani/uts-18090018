@@ -10,7 +10,7 @@
         <div class="container">
             <div class="card mt-5">
                 <div class="card-header bg-dark text-center text-white">
-                    CRUD
+                <strong>Aplikasi perekaman data kendaraan</strong>
                 </div>
                 <div class="card-body">
                     <a href="/kendaraan/tambah" class="btn btn-primary">Tambah Data Baru</a>

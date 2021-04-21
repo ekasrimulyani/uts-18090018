@@ -13,7 +13,7 @@ class PegawaiController extends Controller
     	return view('pegawai', ['pegawai' => $pegawai]);
     }
     public function tambah(){
-        return view('pegawai_tambah');
+        return view('kendaraan_tambah');
     }
 
     public function store(Request $request){
@@ -34,7 +34,7 @@ class PegawaiController extends Controller
 
     public function edit($id){
         $pegawai = Pegawai::find($id);
-        return view('pegawai_edit', ['pegawai' => $pegawai]);
+        return view('kendaraan_edit', ['pegawai' => $pegawai]);
     }
 
     public function update($id, Request $request){
