@@ -38,7 +38,7 @@
                 <div class="text-1">Hello, my name is</div>
                 <div class="text-2">Eka Sri Mulyani</div>
                 <div class="text-3">NIM : 18090018 <span class="typing"></span></div>
-                <a href="https://uts-18090018.herokuapp.com/hp">Masuk</a>
+                <a href="https://uts-18090018.herokuapp.com/pegawai">Masuk</a>
             </div>
           </div>
       </div>

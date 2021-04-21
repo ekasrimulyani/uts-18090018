@@ -10,7 +10,7 @@
         <div class="container">
             <div class="card mt-5">
                 <div class="card-header text-center">
-                    CRUD - <strong>EDIT DATA</strong>
+                <strong>EDIT DATA</strong>
                 </div>
                 <div class="card-body">
                     <a href="/hp" class="btn btn-primary">Kembali</a>
@@ -68,5 +68,5 @@
                 </div>
             </div>
         </div>
-    </body>
+    </body><a href="#" target="_blank">By 18090018</a>
 </html>
