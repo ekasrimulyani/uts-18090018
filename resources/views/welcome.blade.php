@@ -20,8 +20,9 @@
     </div>
     <nav class="navbar">
         <div class="max-width">
+            <div class="logo"><a href="#">Aplikasi perekaman data<span> HP</span></a></div>
             <ul class="menu">
-                <li><a href="https://uts-18090018.herokuapp.com/" class="menu-btn">Aplikasi</a></li>
+                <li><a href="https://uts-18090027.herokuapp.com/hp" class="menu-btn">Aplikasi</a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>
@@ -34,21 +35,17 @@
       <div class="max-width">
           <div class="row">
             <div class="home-content">
-                <div class="text-1">Hello, My name</div>
+                <div class="text-1">Hello, my name is</div>
                 <div class="text-2">Eka Sri Mulyani</div>
-                <div class="text-3">NIM : 18090018
-                <a href="https://uts-18090018.herokuapp.com/">Masuk</a>
+                <div class="text-3">NIM : 18090018 <span class="typing"></span></div>
+                <a href="https://uts-18090018.herokuapp.com/hp">Masuk</a>
             </div>
           </div>
       </div>
     </section>
-
-
-
-
     <!-- footer section start -->
     <footer>
-        <span>Created By <a href="#">Estu Nosita</a> | <span class="far fa-copyright"></span> 2021 All rights reserved.</span>
+        <span>Created By <a href="https://github.com/ilhamhanifpamulia/uts-18090027.git">Ilham Hanif Pamulia</a> | <span class="far fa-copyright"></span> 2020 All rights reserved.</span>
     </footer>
 
     <script src="script.js"></script>
