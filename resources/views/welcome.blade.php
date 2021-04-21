@@ -21,8 +21,6 @@
     <nav class="navbar">
         <div class="max-width">
             <div class="logo"><a href="#">Aplikasi perekaman data<span> Kendaraan</span></a></div>
-            <ul class="menu">
-                <li><a href="https://uts-18090018.herokuapp.com/kendaraan" class="menu-btn">Aplikasi</a></li>
             </ul>
             <div class="menu-btn">
                 <i class="fas fa-bars"></i>

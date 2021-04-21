@@ -13,7 +13,7 @@
                     CRUD - <a href="#" target="_blank">By 18090018</a>
                 </div>
                 <div class="card-body">
-                    <a href="/kendaraaan/tambah" class="btn btn-primary">Tambah Data Baru</a>
+                    <a href="/kendaraan/tambah" class="btn btn-primary">Tambah Data Baru</a>
                     <br/>
                     <br/>
                     <table class="table table-bordered table-hover table-striped">
