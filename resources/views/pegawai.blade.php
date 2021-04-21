@@ -13,7 +13,7 @@
                     CRUD - <a href="#" target="_blank">By 18090018</a>
                 </div>
                 <div class="card-body">
-                    <a href="/hp/tambah" class="btn btn-primary">Tambah Data Baru</a>
+                    <a href="/kendaraaan/tambah" class="btn btn-primary">Tambah Data Baru</a>
                     <br/>
                     <br/>
                     <table class="table table-bordered table-hover table-striped">
@@ -32,8 +32,8 @@
                                 <td>{{ $p->nama }}</td>
                                 <td>{{ $p->alamat }}</td>
                                 <td>
-                                    <a href="/hp/edit/{{ $p->id }}" class="btn btn-warning">Edit</a>
-                                    <a href="/hp/hapus/{{ $p->id }}" class="btn btn-danger">Hapus</a>
+                                    <a href="/kendaraan/edit/{{ $p->id }}" class="btn btn-warning">Edit</a>
+                                    <a href="/kendaraan/hapus/{{ $p->id }}" class="btn btn-danger">Hapus</a>
                                 </td>
                             </tr>
                             @endforeach

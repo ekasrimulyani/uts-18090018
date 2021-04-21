@@ -13,11 +13,11 @@
                 <strong>TAMBAH DATA</strong>
                 </div>
                 <div class="card-body">
-                    <a href="/hp" class="btn btn-primary">Kembali</a>
+                    <a href="/kendaraan" class="btn btn-primary">Kembali</a>
                     <br/>
                     <br/>
                     
-                    <form method="post" action="/hp/store">
+                    <form method="post" action="/kendaraan/store">
  
                         {{ csrf_field() }}
 
